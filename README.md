@@ -6,7 +6,8 @@ Here i am gonna add my favorite SDKs and APIs i am already using and i wanna use
 1. https://www.pubnub.com/			
 2. https://www.twilio.com/			
 3. http://parse.com/        		i know i know its shutting down, i am gonna use it until find out best alternatives
-4. https://layer.com/ 					
+4. https://layer.com/ 				[beginner : DONE]	
 5. https://quickblox.com/				
 6. https://www.firebase.com/		
 7. http://www.kinvey.com/
+8. https://developers.oovoo.com/
